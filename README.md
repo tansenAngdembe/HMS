@@ -21,7 +21,7 @@ A console-based Java application for managing hospital operations such as doctor
 
 ## 🧱 Project Structure
 - Doctors class
-- Patient class
+- Patients class
 - Main (Book appointment) - main
 
  
