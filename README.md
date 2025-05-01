@@ -20,6 +20,9 @@ A console-based Java application for managing hospital operations such as doctor
 - IntelliJ IDEA (used IDE)
 
 ## 🧱 Project Structure
+- Doctors class
+- Patient class
+- Main (Book appointment) - main
 
  
 ## ⚙️ Setup Instructions
